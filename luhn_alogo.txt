@@ -1,0 +1,13 @@
+PYTHON CREDIT CARD VALIDATOR PROGRAM
+
+#. Remove any '-' or ' '
+
+#. Add all digits in the odd places from right to left
+
+#. Double every second digit from right to left
+    if the result is a two-digit number,
+        add the two-digit number together to get a single digit.
+
+#. Sum the totals of steps 2 and 3
+
+#. If sum is divisible by 10, the credit card is valid
